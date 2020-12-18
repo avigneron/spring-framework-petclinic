@@ -1,4 +1,4 @@
-TP INSA
+TP Insa
 
 # Spring PetClinic Sample Application
 
